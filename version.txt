@@ -12,3 +12,6 @@
 ------------------ Version 0.3 (Tareerat.) ------------------                         
 	- Update Home Function
 	- Move sensor_fn(); from sv.ino to Function.ino
+
+------------------ Version 0.4 (Wirat.) ------------------                         
+	- Update Full Script
